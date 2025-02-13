@@ -4,6 +4,12 @@
 
 Ce projet consiste en la création d'un site web pour un photographe, utilisant principalement HTML et CSS. Le site présente une galerie de photos, une page de présentation, des informations sur les services du photographe, et une page de contact. L'objectif est de créer un design simple, élégant et responsive pour que les visiteurs puissent découvrir le travail du photographe et le contacter facilement.
 
+## Aperçu du projet
+
+Voici à quoi ressemble l'interface du site :
+
+![Aperçu du projet](./images/photographe-site.png)
+
 ## Fonctionnalités
 
 - **Page d'accueil** : Présentation du photographe avec une mise en avant des meilleures œuvres et un formulaire de contact.
